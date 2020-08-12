@@ -1,3 +1,11 @@
+
+
+**Submission at the hackathon** <br />
+
+[Link to UI demo video](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/tree/master/Demo_Video)
+[Link to_PPT](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/tree/master/Demo_Video)
+
+
 **THE ISSUE** <br />
 After the breakout of Coronavirus, researchers from different domains have focused on how the diagnosis could be speeded up to help in early isolation of defected or suspicious cases. Radiologists strongly believe that X-rays or CT scans can support the COVID detection system. In this project, we introduce deep learning-based approach to identify COVID from X-ray images.
 
