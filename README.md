@@ -3,7 +3,7 @@
 **Submission at the hackathon** <br />
 
 [Link to UI demo video](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/tree/master/Demo_Video) <br />
-[Link to_PPT](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/tree/master/Demo_Video)  <br />
+[Link to_PPT](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/blob/master/Hackton_DDSM_v4.pdf)  <br />
 
 
 **THE ISSUE** <br />
