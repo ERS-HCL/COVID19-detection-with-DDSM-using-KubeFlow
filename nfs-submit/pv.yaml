@@ -1,0 +1,31 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: ddsm-vol
+  namespace: kubeflow-kumarrastogia
+spec:
+  capacity:
+    storage: 50Gi
+  accessModes:
+    - ReadWriteMany
+  claimRef:
+    namespace: kubeflow-kumarrastogia
+    name: ddsm-pvc
+  nfs:
+    #server: 10.31.255.127
+    server: nfs.kubeflow-kumarrastogia.svc.cluster.local
+    path: "/"
+
+---
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: ddsm-pvc
+  namespace: kubeflow-kumarrastogia
+spec:
+  accessModes:
+    - ReadWriteMany
+  storageClassName: ""
+  resources:
+    requests:
+      storage: 50Gi

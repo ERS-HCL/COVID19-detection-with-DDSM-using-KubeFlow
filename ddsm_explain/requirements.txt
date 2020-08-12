@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+opencv-python
+Pillow
+lime
+scikit-image
+requests
+tensorflow-gpu==1.14.0
+Keras==2.2.5
