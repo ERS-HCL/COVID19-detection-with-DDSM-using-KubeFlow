@@ -20,4 +20,7 @@ References:
 
 1\. Covid-19 Chest X-ray Dataset:
 <https://github.com/ieee8023/covid-chestxray-dataset>
+2\.ChexNet Reference:
 <https://stanfordmlgroup.github.io/projects/chexnet/>
+
+
