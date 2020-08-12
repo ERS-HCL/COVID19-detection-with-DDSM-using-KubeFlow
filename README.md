@@ -10,3 +10,14 @@ Diagnostic Decision Support for Medical Imaging (DDSM++) is introduced to detect
 * Training and hyper-parameter tuning of DNN
 * Evaluate trained model
 * Take feedback from Radiologist on model inference
+
+
+
+
+
+
+References:
+
+1\. Covid-19 Chest X-ray Dataset:
+<https://github.com/ieee8023/covid-chestxray-dataset>
+<https://stanfordmlgroup.github.io/projects/chexnet/>
