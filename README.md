@@ -5,6 +5,7 @@
 [Link to UI demo video](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/tree/master/Demo_Video) <br />
 [Link to_PPT](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/blob/master/Hackton_DDSM_v4.pdf)  <br />
 [Link to our Covid-19-X-ray-Image-Augmentation work](https://github.com/ERS-HCL/Covid-19-X-ray-Image-Augmentation-) <br />
+[Link to_Setup Document](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/blob/master/Application_Env_Setup%20Documentat.docx) <br />
 
 
 **THE ISSUE** <br />
@@ -20,9 +21,8 @@ Diagnostic Decision Support for Medical Imaging (DDSM++) is introduced to detect
 * Evaluate trained model
 * Take feedback from Radiologist on model inference
 
-
-
-
+**Setup** <br />
+* Fllow the instructions in the document(Application_Env_Setup Documentat.doc) to setup the Application environment.Application_Env_Setup Documentat.doc 
 
 
 References:
