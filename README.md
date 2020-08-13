@@ -27,8 +27,10 @@ Diagnostic Decision Support for Medical Imaging (DDSM++) is introduced to detect
 References:
 
 1\. Covid-19 Chest X-ray Dataset:
-<https://github.com/ieee8023/covid-chestxray-dataset>
+<https://github.com/ieee8023/covid-chestxray-dataset> <br />
 2\.ChexNet Reference:
-<https://stanfordmlgroup.github.io/projects/chexnet/>
-
+<https://stanfordmlgroup.github.io/projects/chexnet/><br />
+<https://github.com/brucechou1983/CheXNet-Keras> <br />
+3\.DataSet:
+<https://www.kaggle.com/nih-chest-xrays/data><br />
 
