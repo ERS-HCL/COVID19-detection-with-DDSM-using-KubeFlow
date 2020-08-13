@@ -5,5 +5,5 @@ Pillow
 lime
 scikit-image
 requests
-tensorflow-gpu==1.14.0
+tensorflow-gpu==1.15.2
 Keras==2.2.5
