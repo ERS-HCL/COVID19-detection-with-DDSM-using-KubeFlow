@@ -1,0 +1,13 @@
+dill
+h5py
+numpy
+opencv-python
+pandas
+scikit-learn
+scipy
+tensorflow-gpu==1.14.0
+Keras==2.2.5
+Pillow
+scikit-image
+imgaug
+elasticsearch
