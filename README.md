@@ -4,6 +4,7 @@
 
 [Link to UI demo video](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/tree/master/Demo_Video) <br />
 [Link to_PPT](https://github.com/kaladharanalytics/COVID-19-detection-with-DDSM-using-KubeFlow-/blob/master/Hackton_DDSM_v4.pdf)  <br />
+[Link to our Covid-19-X-ray-Image-Augmentation work](https://github.com/ERS-HCL/Covid-19-X-ray-Image-Augmentation-) <br />
 
 
 **THE ISSUE** <br />
